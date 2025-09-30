@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Chapter12
 {
+
+    //Abstract with Common + Abstract Behavior
     public abstract class PaymentMethod
     {
         public void Validate()
